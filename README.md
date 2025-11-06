@@ -17,19 +17,50 @@
    - Immediate next steps
    - ~10 minute read
 
-2. **[africa-agriculture-cost-effectiveness-analysis.md](africa-agriculture-cost-effectiveness-analysis.md)** - Full Analysis
+2. **[cited-cost-effectiveness-summary.md](cited-cost-effectiveness-summary.md)** - ⭐ FULLY CITED KEY DATA
+   - All key findings with source citations [S1], [S2], etc.
+   - Direct quotes from sources
+   - Calculation methodology shown
+   - Links to sources-and-references.md
+   - ~20 minute read
+
+3. **[africa-agriculture-cost-effectiveness-analysis.md](africa-agriculture-cost-effectiveness-analysis.md)** - Full Analysis
    - Comprehensive evaluation of all opportunities
    - Detailed assessment against criteria
    - Evidence review and data gaps
    - Strategic recommendations
    - ~30 minute read
 
-3. **[cost-effectiveness-data.md](cost-effectiveness-data.md)** - Data Reference
+4. **[cost-effectiveness-data.md](cost-effectiveness-data.md)** - Data Reference
    - All cost and impact numbers in one place
    - Comparison tables
    - Benchmark data
    - Data quality assessment
    - Quick lookup reference
+
+### 📊 Spreadsheets and Calculations
+
+5. **[cea-spreadsheet.csv](cea-spreadsheet.csv)** - SPREADSHEET FORMAT
+   - All cost-effectiveness data in Excel/Sheets format
+   - Easy sorting and filtering
+   - Includes calculations, sources, URLs
+   - Direct import to Excel/Google Sheets
+
+6. **[calculation-verification.md](calculation-verification.md)** - MATH VERIFICATION
+   - Step-by-step calculation methodology
+   - All formulas explained
+   - Error checking and corrections
+   - Verification of every number
+   - Confidence levels for each calculation
+
+### 📚 References and Sources
+
+7. **[sources-and-references.md](sources-and-references.md)** - FULL BIBLIOGRAPHY
+   - All 37 sources with full citations
+   - URLs and access dates
+   - Key data extracted from each source
+   - Data quality assessments
+   - Explanation of calculation errors and corrections
 
 ---
 
@@ -198,11 +229,20 @@ This analysis evaluates opportunities against three requirements:
 ### For Quick Decision-Making:
 → Read **executive-summary.md** (10 min)
 
+### For Cited Data with Sources:
+→ Read **cited-cost-effectiveness-summary.md** (20 min) - ⭐ **RECOMMENDED FOR VERIFICATION**
+
 ### For Due Diligence:
 → Read **executive-summary.md**, then **africa-agriculture-cost-effectiveness-analysis.md** (40 min total)
 
-### For Specific Numbers:
-→ Reference **cost-effectiveness-data.md** (lookup as needed)
+### For Specific Numbers in Spreadsheet:
+→ Open **cea-spreadsheet.csv** in Excel/Google Sheets (instant lookup)
+
+### For Verifying Calculations:
+→ Review **calculation-verification.md** - shows all math step-by-step
+
+### For Checking Sources:
+→ Reference **sources-and-references.md** - all 37 sources with full citations and URLs
 
 ### For Detailed Evidence:
 → Full analysis includes citations and methodology in **africa-agriculture-cost-effectiveness-analysis.md**
